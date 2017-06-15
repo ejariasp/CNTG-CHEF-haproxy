@@ -3,8 +3,8 @@ maintainer 'Emilio'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures haproxy'
-long_description 'Installs/Configures haproxy, redirecting data to port [apache][port], by default 8080'
-version '0.2.0'
+long_description 'Installs/Configures haproxy, redirecting data to port [apache][port], by default 8181, aplying configuration by role'
+version '0.3.0'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
